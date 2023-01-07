@@ -1,0 +1,9 @@
+:root {
+  --animation-duration: 0.7s;
+  --animation-duration-click: 0.33s;
+  --animation-timing-function: linear;
+}
+
+.image-icon {
+  cursor: pointer;
+}
